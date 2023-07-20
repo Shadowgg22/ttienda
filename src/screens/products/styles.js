@@ -6,6 +6,7 @@ export const styles = StyleSheet.create({
   container: {
     flex: 1,
     marginHorizontal: 15,
+    marginTop: 15,
   },
   header: {
     flexDirection: 'row',
@@ -25,7 +26,6 @@ export const styles = StyleSheet.create({
     flex: 1,
   },
   notFound: {
-    
     flex: 1,
     alignItems: 'center',
   },
